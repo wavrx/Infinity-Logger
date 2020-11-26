@@ -10,6 +10,6 @@ Embedded firmware is written in C++, RTOS, utilizing tasks, multi-threading prog
 
 ## Images:
 
-![ScreenShot1](https://github.com/WavRX/Infinity-Logger/blob/main/Images/ilg1.jpg)
 ![ScreenShot2](https://github.com/WavRX/Infinity-Logger/blob/main/Images/ilg2.jpg)
+![ScreenShot1](https://github.com/WavRX/Infinity-Logger/blob/main/Images/ilg1.jpg)
 ![ScreenShot3](https://github.com/WavRX/Infinity-Logger/blob/main/Images/ilg3.jpg)
