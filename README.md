@@ -25,6 +25,19 @@ Specs:
 
 Embedded firmware is written in C++, RTOS, utilizing tasks, multi-threading programming, BLE stack, Wifi stack, CAN driver, File system management, OTA( Over the Air Updates), Hardware encryption and API authentication...
 
+iLogger is an all in one logging solution for Vesc based ESCs. It has a compact design and supports both CAN and UART protocols.
+![ScreenShot2](https://github.com/WavRX/Infinity-Logger/blob/main/Images/CANBUS2-150x150.png)
+![ScreenShot2](https://github.com/WavRX/Infinity-Logger/blob/main/Images/UART2-150x150.png)
+
+Multiple Vesc support and automatic logging on both CAN Bus and UART ports.
+Life Time data recording include total odometer distance and runtime.
+Full SD Card in-app browser to easily access all recorded logs under Year/Month/Day/ Time_.lg format
+Quickly view a specific log using in-app data visualization or export by uploading to the cloud for free backup and extended online visualization.
+Many exporting formats available: PNG, JPEG, SVG, PDFJSON, CSV, XLSX, HTML
+Full GPS detection and automatic logging when a GPS module is connected to the iLogger module.
+
+![ScreenShot2](https://github.com/WavRX/Infinity-Logger/blob/main/Images/Screen%20Shot%202022-08-25%20at%205.44.08%20AM.png)
+
 ## Images:
 ![ScreenShot2](https://github.com/WavRX/Infinity-Logger/blob/main/Images/4.jpg)
 ![ScreenShot2](https://github.com/WavRX/Infinity-Logger/blob/main/Images/5.jpg)
