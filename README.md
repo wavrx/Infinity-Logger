@@ -41,6 +41,4 @@ Full GPS detection and automatic logging when a GPS module is connected to the i
 ## Images:
 ![ScreenShot2](https://github.com/WavRX/Infinity-Logger/blob/main/Images/4.jpg)
 ![ScreenShot2](https://github.com/WavRX/Infinity-Logger/blob/main/Images/5.jpg)
-![ScreenShot2](https://github.com/WavRX/Infinity-Logger/blob/main/Images/11.jpg)
-![ScreenShot2](https://github.com/WavRX/Infinity-Logger/blob/main/Images/13.jpg)
-![ScreenShot2](https://github.com/WavRX/Infinity-Logger/blob/main/Images/14.jpg)
+
